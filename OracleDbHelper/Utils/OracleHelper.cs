@@ -12,7 +12,7 @@ namespace OracleDbHelper.Utils
     public static class OracleHelper
     {
         /// <summary>
-        /// 输入一个select语句,返回一个DataTable
+        /// 输入一个select语句,返回一个DataTable.
         /// </summary>
         /// <param name="querySql">select语句</param>
         /// <param name="cmdParms">select语句中的参数</param>
