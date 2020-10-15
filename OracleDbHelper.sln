@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1145
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleDbHelper", "OracleDbHelper\OracleDbHelper.csproj", "{CC30B2C7-7184-4A42-A175-6023822183AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleDbHelperTest", "OracleDbHelperTest\OracleDbHelperTest.csproj", "{CF04259C-832F-405E-9F30-EFA8CB183DE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CC30B2C7-7184-4A42-A175-6023822183AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC30B2C7-7184-4A42-A175-6023822183AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC30B2C7-7184-4A42-A175-6023822183AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF04259C-832F-405E-9F30-EFA8CB183DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF04259C-832F-405E-9F30-EFA8CB183DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF04259C-832F-405E-9F30-EFA8CB183DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF04259C-832F-405E-9F30-EFA8CB183DE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
